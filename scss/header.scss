@@ -1,0 +1,32 @@
+section{
+    height: 50px;
+    width: 100%;
+    background-color: #253454;
+    position: relative;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 22px;
+    float: left;
+    margin-right: 2%;
+    color: #fff;
+    line-height: 50px;
+    margin-left: 5%;
+  }
+  
+nav{
+    display: none;
+}
+.search-bottom{
+    line-height: 50px;
+}
+input{
+    border: 1px solid #253454;
+    padding-left: 10px;
+    outline: none;
+    height: 30px;
+    min-width: 400px;
+    // background: url("../../assets/image/search.png") center right no-repeat;
+    background-color: #fff;
+}
